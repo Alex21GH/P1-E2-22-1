@@ -1,0 +1,55 @@
+                                          CLIENTES
+71984468  IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO      B       16.80   935441620
+Pedidos: 
+
+29847168  ALDAVE ZEVALLOS ROSARIO                      A       23.50     6261108
+Pedidos: 
+
+79475585  RETTO ARCA ANNIE MAGDA                       A       23.50   941241092
+Pedidos: 
+
+91897732  GAMARRA ALCOCER VIRGINIA                     A       23.50   954025615
+Pedidos: 
+
+33397650  RONDON EGUSQUIZA CARMELA VALENTINA           A       23.50     3911397
+Pedidos: 
+
+83236386  RIVERO CORRALES JUAN FERNANDO                A       23.50   946513105
+Pedidos: 
+
+32821689  ZAVALETA EPIQUEN CARMEN ZKENIA               C        8.30   955248211
+Pedidos: 
+
+45783712  POZO CHUNG RAFAEL DEL                        B       16.80     8252118
+Pedidos: 
+
+48184351  LOPEZ JAUREGUI ROLANDO                       C        8.30   884716679
+Pedidos: 
+
+33713901  VILLEGAS CASTRO SOFIA VIRGINIA               A       23.50     2339560
+Pedidos: 
+
+76388967  GONZALES QUIO ISABEL                         B       16.80     8094909
+Pedidos: 
+
+81114108  ZAMBRANO SHIRAKAWA WILMER                    B       16.80     5853087
+Pedidos: 
+
+57263719  PRADO TORREALBA CARMEN JANET                 C        8.30   988736554
+Pedidos: 
+
+79140840  TORREALBA ARCA VICTORIA GLENDA               C        8.30   876488179
+Pedidos: 
+
+71378466  MIYAKE CARO HENRRY EDGAR                     C        8.30   921051207
+Pedidos: 
+
+17913944  PALOMARES SANTISTEBAN HENRRY                 B       16.80   967944433
+Pedidos: 
+
+62566305  ROMERO ALFARO MONICA JOHANA                  C        8.30     8206363
+Pedidos: 
+
+46462527  LOYOLA MORI NICOLAS FERNANDO                 B       16.80     5865695
+Pedidos: 
+
